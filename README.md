@@ -1,5 +1,5 @@
 # Hi, the name's Valen! 👋
-Currently pursuing my associate's degree in Informatics Engineering at [Electronic Engineering Institute of Surabaya](www.pens.ac.id)
+Currently pursuing my associate's degree in Informatics Engineering at [Electronic Engineering Institute of Surabaya](https://www.pens.ac.id)
 
 ## Here are some fun statistics about my profile!
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=bukanvalen.bukanvalen)
