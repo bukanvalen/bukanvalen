@@ -1,5 +1,6 @@
 # Hi, the name's Valen! 👋
-Currently pursuing my associate's degree in Informatics Engineering at [Electronic Engineering Institute of Surabaya](https://www.pens.ac.id)
+Previously pursuing my associate's degree in Informatics Engineering at [Electronic Engineering Polytechnic Institute of Surabaya (EEPIS)](https://www.pens.ac.id).  
+Now working as an SysAdmin at [Terus E-learning](https://teruselearning.co.uk/).
 
 ## Here are some fun statistics about my profile!
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=bukanvalen.bukanvalen)
