@@ -1,6 +1,6 @@
 # Hi, the name's Valen! 👋
 Previously pursuing my associate's degree in Informatics Engineering at [Electronic Engineering Polytechnic Institute of Surabaya (EEPIS)](https://www.pens.ac.id).  
-Now working as an SysAdmin at [Terus E-learning](https://teruselearning.co.uk/).
+Now working as an SysAdmin at [Terus E-learning](https://teruselearning.co.uk/) and Cloud Administrator at [DevForces](https://devforces.net/).
 
 ## Here are some fun statistics about my profile!
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=bukanvalen.bukanvalen)
