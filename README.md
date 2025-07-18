@@ -1,3 +1,6 @@
+**Hope comes to those who believe. And for those who cannot.  
+May our hope shine so brightly. That they, too, may keep shelter from the dark.**
+
 # Hi, the name's Valen! 👋
 Previously pursuing my associate's degree in Informatics Engineering at [Electronic Engineering Polytechnic Institute of Surabaya (EEPIS)](https://www.pens.ac.id).  
 Now working as an SysAdmin at [Terus E-learning](https://teruselearning.co.uk/) and Cloud Administrator at [DevForces](https://devforces.net/).
