@@ -3,7 +3,7 @@ May our hope shine so brightly. That they, too, may keep shelter from the dark.*
 
 # 👋 Hi, the name's Valen!
 Previously pursuing my associate's degree in Informatics Engineering at [Electronic Engineering Polytechnic Institute of Surabaya (EEPIS)](https://www.pens.ac.id).  
-Now working as a Cloud Administrator at [DevForces](https://devforces.net/).
+I'm currently focused on SysAdmin and Cloud, with the goal of transitioning to an SRE role in the future.
 
 ## 📊 Profile Statistics
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=bukanvalen.bukanvalen)
